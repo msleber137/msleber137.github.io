@@ -1,0 +1,589 @@
+<Book path="book0/" aspectRatio="0.74">
+	<Page src="image0.JPG">
+		<RegionOfInterest region="0.39254385, 0.36584052, 0.39254385, 0.64008623, 0.59502923, 0.64008623, 0.59502923, 0.36584052">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Vierge à l'enfant&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage0.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Jean Poyer "Vierge à l'Enfant " Musée du Louvre Paris &lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image1.JPG">
+		<RegionOfInterest region="0.069785275, 0.03195067, 0.069785275, 0.9529148, 0.9363497, 0.9529148, 0.9363497, 0.03195067">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:4px; margin-right:8px; font-size:32px; color:#ffffff; font-family:Times New Roman; ">&lt;i>Présentation générale&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le fonds Leber est le premier fonds acquis par la bibliothèque Villon. Il a été acheté en 1838 par la Ville de Rouen. Le catalogage du fonds a été effectué par Leber.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Voici la description du manuscript tel que présenté dans Catalogue de la collection Leber :&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Livre d’Heures à l’usage de Rome, et livre de messe de dévotion privée, avec calendrier datant du XIVe siècle. Manuscrit flamand (Flandres-Bruges) rédigé en latin et français sur peau de vélin, orné de 38 miniatures, dont 8 petites en camaïeu et 30 grandes en or et couleur (fonds de cinabre, coupés d’outremer et couverts de réseaux d’or), attribuées à Herman Scheere (groupe Glasgow-Rouen).&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Huit heures canoniales auxquelles correspondent les enluminures représentant le cycle de l’Enfance du Christ. La tradition flamande met l’accent sur l’Enfance du Christ alors que la tradition française insiste sur la vie de la Vierge et termine le cycle des Heures par une représentation du Couronnement de la Vierge pour l’office des Complies. Les enluminures doivent respecter un ordre établi pour la représentation de ces scènes. Cependant, le manuscrit Leber 137 a quelques particularités et ne respecte pas l’ordre prévu.
+&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Les images n’illustrent pas directement le texte de l’office, mais elles servent plutôt de support à la méditation du lecteur.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image2.JPG">
+		<RegionOfInterest region="0.6594203, 0.2739726, 0.8052536, 0.33333334, 0.84782606, 0.5308219, 0.8143116, 0.58618724, 0.5833333, 0.6130137, 0.51992756, 0.5650685, 0.51358694, 0.48458904, 0.5742754, 0.46004567, 0.6503623, 0.38869864, 0.5960145, 0.3487443, 0.61141306, 0.28710046">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Vierge à l’Enfant (Vierge de l’humilité), couronnée et nimbée, assise sur des coussins, dans un jardin. &lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.4375, 0.3487443, 0.48641303, 0.24714611, 0.32789856, 0.20490867, 0.08786232, 0.27568492, 0.057971016, 0.3584475, 0.09692029, 0.5730594, 0.10326087, 0.72203195, 0.3432971, 0.72602737, 0.34692028, 0.63812786, 0.34057972, 0.37157536">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">À droite, Saint Georges au dessus du dragon et à gauche, un ange tenant un casque portant ses armes (d’argent à la croix de gueules).&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage1.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Paolo Uccello, "Saint Georges terrassant le dragon", 1439-1440, Musée Jacquemart-André, Paris&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.4347826, 0.36586758, 0.58061594, 0.3584475, 0.66847825, 0.39440638, 0.51992756, 0.4634703, 0.54438406, 0.6267123, 0.36775362, 0.67636985, 0.36141303, 0.4063927">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le destinataire du livre d’Heures, agenouillé, relié à Marie par un phylactère sur lequel est inscrit :
+« O mater dei memento mei » 
+( Ô mère de Dieu, souviens-toi de moi.)&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image3.JPG">
+		<RegionOfInterest region="0.20862676, 0.1875, 0.3503521, 0.18176605, 0.3943662, 0.22018349, 0.44982395, 0.26605505, 0.45334506, 0.29529816, 0.44982395, 0.3543578, 0.4559859, 0.4082569, 0.38820422, 0.4271789, 0.3089789, 0.4787844, 0.15580986, 0.49426606, 0.17605634, 0.43119267, 0.20862676, 0.3641055, 0.24735916, 0.34116971, 0.21742958, 0.33142203, 0.16725352, 0.37958714, 0.14700705, 0.3446101, 0.1971831, 0.30676606, 0.25264084, 0.27408257, 0.16725352, 0.26433486, 0.14964789, 0.23738532">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Gabriel annonce à la Vierge Marie sa maternité divine. L'ange dit: 
+« Ave Maria gracia plena, Dominus tecum » 
+(Je vous salue Marie, pleine de grâce, le Seigneur est avec vous)&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.38556337, 0.17431192, 0.54665494, 0.18405963, 0.62676054, 0.2184633, 0.5880282, 0.27752292, 0.62676054, 0.32167432, 0.67077464, 0.35607797, 0.62323946, 0.40022936, 0.5765845, 0.36983946, 0.57042253, 0.41571102, 0.49735916, 0.49426606, 0.32042253, 0.48279816, 0.46742958, 0.29873854, 0.42077464, 0.22821102">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Vierge Marie répond Gabriel: 
+« Ecce ancilla Domini; fiat mihi secundum verbum tuum » 
+(Voici la servante du Seigneur, qu’il me soit fait selon votre parole)
+Sur le livre que lit la Vierge, il est écrit les paroles du Magnificat : 
+« Magnificat anima mea dominus ». 
+(Mon âme exalte le Seigneur)&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage2.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Fra Angelico, "L'Annonciation", 1430, musée du Prado, Madrid&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.14964789, 0.51548165, 0.14964789, 0.6571101, 0.33274648, 0.6571101, 0.33274648, 0.51548165">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Une femme nimbée, lisant un livre dans un jardin médiéval, sur un fonds bleu outremer et doré.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.34419015, 0.51318806, 0.35299295, 0.6513761, 0.6760563, 0.64965594, 0.6822183, 0.51318806">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Ce texte, issu du livre des Psaumes (Ps 51 (50), v. 17)
+Domine labia mea
+aperies : Et os meu[m]
+annuntiabit lau-
+-dem tuam&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Qui signifie : 
+« Seigneur, vous ouvrirez mes lèvres: et ma bouche proclamera votre louange ». &lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">C’est le verset d’invocation du premier office de la journée. Selon la règle de saint Benoît (chapitre IX), il est suivi du psaume invitatoire (d’exhortation à la louange et à la prière).&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.10915493, 0.08428899, 0.10915493, 0.15883027, 0.71478873, 0.15883027, 0.71478873, 0.08428899">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation générale de la scène&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Cette page représentant l’Annonciation qui illustre l’Office des Matines, c’est-à-dire le premier office du cursus de l’office divin dans la liturgie des Heures qui est destiné à sanctifier le temps de la nuit. On peut y voir :&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’archange Gabriel annoncant à la Vierge Marie sa maternité divine. 
+Les paroles échangées entre l'ange et Marie sont issues de l’Evangile selon saint Luc (1, 26-38). &lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image4.JPG">
+		<RegionOfInterest region="0.34650734, 0.112268515, 0.34650734, 0.18402778, 0.9329044, 0.18402778, 0.9329044, 0.112268515">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation de cette scène&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’Annonce aux bergers qui correspond à l’office de Prime, c’est-à-dire la première heure du jour après le levant soit environ 6h du matin, il fait partie des « petites heures ». &lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.48069853, 0.22395833, 0.63327205, 0.19907407, 0.8272059, 0.22222222, 0.7637868, 0.2355324, 0.7545956, 0.3258102, 0.6691176, 0.3258102, 0.6599265, 0.27604166, 0.55330884, 0.2679398, 0.4898897, 0.25868055">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Inscription sur le phylactère :
+ 
+&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">« Gloria in excelsis Deo et in terra pax hominibus bonae voluntatis » &lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Gloire à Dieu au plus haut des cieux et paix sur la Terre aux hommes de bonne volonté/aux hommes qu’il aime.
+C’est un chant d’allégresse, un hymne à la Trinité.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.7775735, 0.23726852, 0.7775735, 0.3755787, 0.8566176, 0.3755787, 0.85202205, 0.23206018">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Un berger avec ses moutons&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image5.JPG">
+		<RegionOfInterest region="0.3232143, 0.124423966, 0.3232143, 0.20564516, 0.9089286, 0.2016129, 0.9089286, 0.124423966">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation générale de cette scène&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Nativité (avec l'absence de Joseph) qui correspond à l’Office de Tierce, c'est-à-dire, la troisième heure du jour, vers 9h du matin qui commémore le moment où l’Esprit-Saint est descendu sur les Apôtres.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.65, 0.20679724, 0.65, 0.34907833, 0.82857144, 0.34907833, 0.82857144, 0.20679724">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le berceau de l'enfant Jésus, entourés d'animaux de la ferme (le bœuf et l'âne)&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.43392858, 0.22983871, 0.43660715, 0.39458525, 0.6026786, 0.39458525, 0.6, 0.22983871">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Marie accompagne des anges&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image6.JPG">
+		<RegionOfInterest region="0.33667883, 0.118663594, 0.33667883, 0.2108295, 0.9041971, 0.2108295, 0.9041971, 0.118663594">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation générale de cette scène&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Enluminure de l’Adoration des Mages (avec absence de Joseph) qui correspond à l’office de Sexte, autrement dit, la sixième heure du jour soit environ midi. C'est l'office du milieu du jour commémorant le moment où le Christ est cloué sur la Croix.
+&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">On note la présence des membres de la sainte Famille : Jésus, la Vierge Marie avec celle des trois rois mages, de leur symbolique propre et de leur présents: myrrhe, or et encens.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.5428832, 0.52707374, 0.5428832, 0.6186636, 0.6770073, 0.6186636, 0.6770073, 0.52707374">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Décoration de miniatures flamandes&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage3.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Les maîtres de Guillebert de Mets, "La Vierge alitée, les sages-femmes lavant l'enfant Jésus et arrivée des bergers dans la chambre de naissance", entre 1409 et 1419, BNF, Paris&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image7.JPG">
+		<RegionOfInterest region="0.13898602, 0.1568287, 0.14160839, 0.30092594, 0.37937063, 0.30092594, 0.37937063, 0.15335648">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Texte correspondant à l’office de Sexte.
+Initiale historiée (lettre D) qui utilise le technique  du camaïeu, représentant un homme assis et lisant un livre, dessiné en grisaille, sur un fond bleu.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.40821677, 0.14930555, 0.60227275, 0.14756945, 0.6311189, 0.14756945, 0.63374126, 0.3466435, 0.121503495, 0.3466435, 0.11888112, 0.32175925, 0.41083917, 0.3125">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Ad sextam
+
+Deus in adjuto-
+
+-rium meum
+ 
+intende : Do-
+
+-mine ad ad-
+
+-juvandum me festina. (Ps 70 (69), verset 2)&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.121503495, 0.35243055, 0.121503495, 0.47337964, 0.6451049, 0.47337964, 0.6451049, 0.35243055">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Gloria patri sicut erat ymnus
+Memento salutis auctor
+Maria mater gracie mater
+Gloria tibi domine ut sup[ra]&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.124125876, 0.4809028, 0.124125876, 0.6724537, 0.63986015, 0.6724537, 0.63986015, 0.4809028">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">A[ntiph.]  In odorem psalmus (Ps 123 (122))
+Ad te levavi oculos meos 
+qui habitas in celis.
+Ecce sicut oculi servor[um] i[n] ma-
+-nibus dominorum suorum.
+Sicut oculi ancille in ma-&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.7001748, 0.12847222, 0.7001748, 0.6857639, 0.7438811, 0.6857639, 0.7438811, 0.12847222">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Hauteur des blocs de texte : 140mm
+Largeur des blocs de texte : 97mm&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image8.JPG">
+		<RegionOfInterest region="0.375, 0.1578341, 0.37956205, 0.25115207, 0.9041971, 0.24539171, 0.90510947, 0.1578341">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">-nibus domine sue ita oculi n[ost]ri
+ad dominum deum nostrum 
+donec misereatur nostri.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.37226278, 0.2574885, 0.37317517, 0.4671659, 0.92518246, 0.46370968, 0.90510947, 0.2574885">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Miserere nostri domine mise-
+-rere nostri, quia multu[m] repleti
+sumus despectione.
+Quia multum repleta est
+anima nostra obprobium ha-
+-budantibus et despectio sup[er]bis
+Gloria patri sicut erat Ps[almus] (Ps 124 (123))&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.34580293, 0.46947005, 0.354927, 0.6687788, 0.93156934, 0.65898615, 0.92518246, 0.46947005">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Nisi quia dominus erat i[n]
+nobis dicat nunc israel
+nisi quia d[omi]n[u]s erat in nobis.
+Cum exurgerent homines i[n]
+nos, forte vivos deglutissent nos
+Cum irasceretur furor eoru[m]&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image9.JPG">
+		<RegionOfInterest region="0.11363637, 0.15219907, 0.115384616, 0.21064815, 0.61625874, 0.21064815, 0.61625874, 0.15219907">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">in nos forsitan aqua absor-
+-buisset nos&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.10664336, 0.21469907, 0.104020976, 0.40046296, 0.63986015, 0.39641204, 0.6424825, 0.21469907">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Torrentem pertransivit a[n]i[m]a
+nostra forsitan pertransisset a[n]i[m]a
+n[ost]ra aquam intollerabilem.
+Benedictus dominus qui 
+non dedit nos in captione[m] den-
+-tibus eorum&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.124125876, 0.40625, 0.121503495, 0.5248843, 0.6486014, 0.5306713, 0.6451049, 0.40625">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Anima nostra sicut passer
+erepta est de laqueo venantiu[m]
+Laqueus contritus est et nos
+liberati sumus.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.11888112, 0.5381944, 0.121503495, 0.6724537, 0.6451049, 0.6724537, 0.6451049, 0.5381944">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Adjutorium nostrum in no-
+-mine domini, qui fecit celum
+et terram.
+Gloria patri. Psalmus (Psaume 125(124))&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image10.JPG">
+		<RegionOfInterest region="0.3658759, 0.13709678, 0.3658759, 0.3796083, 0.9160584, 0.36981568, 0.919708, 0.13709678">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Qui confiduunt in domi[n]o
+sicut mons Syon non co[m]-
+-movebitur in eternum qui ha-
+-bitat in iherusalem.
+Montes in circuitu ejus et do-
+-minus in circuitu populi sui, 
+ex hoc nunc et usq[ue] in seculum.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.38229927, 0.3830645, 0.39142334, 0.67626727, 0.9379562, 0.6647465, 0.93430656, 0.3830645">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Quia non relinquet dominus
+virgam pec[cat]orum sup[er] sorte[m] jus-
+-tor[um] ut non extendant justi ad
+iniquitatem manus suas.
+Bene fac domine, bonis et 
+rectis corde.
+Declinantes aute[m] in obligati-
+-ones adducet d[omi]n[u]s cum operanti-
+-b[us] iniquitatem pax sup[er] israel.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image11.JPG">
+		<RegionOfInterest region="0.123239435, 0.13715278, 0.6144366, 0.13368055, 0.64084506, 0.2835648, 0.26056337, 0.2783565, 0.25440142, 0.24652778, 0.12852113, 0.24710648">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Gloria patri, Sicut erat Ant.
+In odorem unguentoru[m] tuor[um]
+currimus adolescentule dilexeru[n]t
+te nimis. Capitulum.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.11971831, 0.2528935, 0.23855634, 0.25694445, 0.25088027, 0.28761575, 0.6584507, 0.2951389, 0.6443662, 0.5671296, 0.27376762, 0.5671296, 0.2684859, 0.5324074, 0.11355634, 0.5289352">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Et radicavi in populo ho-
+-norificato et in partes dei mei here-
+-ditas illius et i[n] plenitudi[n]e s[an]c[t]or[um]
+detentio mea. [R] Deo gracias. V.
+Benedicta tu in mulieribus.
+R. Et benedictus fructus ventris
+tui. Kyrie el[eison]. [Christe] el[eison]. Kyrie el[eison]
+Domine exaudi [orationem meam] ; Et clamor [meus ad te veniat].
+Oremus. Collecta&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.11355634, 0.5381944, 0.2535211, 0.5405093, 0.25616196, 0.5746528, 0.6558099, 0.5746528, 0.6558099, 0.6684028, 0.11355634, 0.6608796">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Concede misericors om[n]i-
+-potens deus fragilitate nostre p[re]si-
+-dium ut qui sancte dei genitricis&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image12.JPG">
+		<RegionOfInterest region="0.3606115, 0.16532259, 0.3606115, 0.31394008, 0.8911871, 0.30817974, 0.8884892, 0.15495391">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">et virginis marie com[m]emora-
+-tionem agimus intercessionis
+eius auxilio a nostris iniquita-
+-tib[us] resurgamus. Per eumdem.
+Sancti dei omnes int[ercedere]. Ant.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.35881296, 0.31970045, 0.35881296, 0.48271888, 0.8938849, 0.48271888, 0.8938849, 0.31970045">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Exaudi nos deus salut[aris noster]. Collecta.
+Omnes sancti tui q[uo]s d[omi]ne
+Et pacem tuam n[ost]ris, ut sup[ra]
+Benedicamus domino.
+Deo gracias.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image13.JPG">
+		<RegionOfInterest region="0.35960144, 0.120949075, 0.36322463, 0.19733797, 0.91757244, 0.19733797, 0.91757244, 0.120949075">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation générale de cette scène&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Enluminure du Massacre des Saints Innocents (correspond à l’office None, c’est-à-dire la neuvième heure du jour, dit vers 15h, il commémore l’instant où le Christ est mort sur la Croix).
+Le massacre des Innocents est le nom donné à un épisode relaté dans l'Évangile selon Matthieu: le meurtre de tous les enfants de moins de deux ans ordonné par le roi Hérode peu après la naissance de Jésus.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.5697464, 0.20891203, 0.5697464, 0.3159722, 0.7164855, 0.3159722, 0.7164855, 0.20891203">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le roi Hérode-Hérode Ier le Grand&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage4.JPG" />
+		</RegionOfInterest>
+		<RegionOfInterest region="0.48007247, 0.5729167, 0.48007247, 0.6302083, 0.85144925, 0.6302083, 0.85144925, 0.5729167">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Les Saints Innocents
+
+Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image14.JPG">
+		<RegionOfInterest region="0.3686594, 0.097800925, 0.3777174, 0.6649306, 0.932971, 0.6608796, 0.92663044, 0.097800925">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation générale de cette scène&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Enluminure de la Fuite en Égypte qui présent la Sainte-Famille, elle correspond à l’Office des Vêpres, c’est-à-dire le grand office marquant la fin de l’après-midi, vers 17h ou 18h, il marque le changement de jour liturgique, commémore la Création du monde et en célèbre la beauté.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image15.JPG">
+		<RegionOfInterest region="0.31849316, 0.1185446, 0.32106164, 0.1971831, 0.8604452, 0.19366197, 0.85530823, 0.11502347">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation générale de cette scène&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Enluminure de la Présentation au Temple qui correspond à l’office des Complies, qui est la dernière prière de la journée, au moment du coucher du soleil.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.61729455, 0.22183098, 0.61729455, 0.35504696, 0.77568495, 0.35504696, 0.77568495, 0.22183098">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Siméon le Sage&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage5.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Alexey Yegorov, "Siméon", 1830-1840, Bibliotekar, Russie&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.3946918, 0.24237089, 0.40496576, 0.53814554, 0.47688356, 0.31748825, 0.47688356, 0.24237089">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Sainte Anne, la mère de la Vierge Marie, et donc la grand-mère de Jésus&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image16.JPG">
+		<RegionOfInterest region="0.3989726, 0.52278036, 0.3989726, 0.6109813, 0.7859589, 0.6109813, 0.7859589, 0.52278036">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La résurrection des morts&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage6.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Tympan du Jugement dernier sur le portail des Libraires de la cathédrale de Rouen&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.5642123, 0.23539719, 0.75513697, 0.32009345, 0.74657536, 0.38668224, 0.6601027, 0.51752335, 0.5025685, 0.51752335, 0.51369864, 0.42932242, 0.48886988, 0.34696263, 0.41523972, 0.35455608">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Enluminure du Jugement Dernier : Christ avec les stigmates, posant les pieds sur le globe terrestre. De chaque côté, deux épées qui symbolisent la justice divine.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image17.JPG">
+		<RegionOfInterest region="0.41433567, 0.18372093, 0.41433567, 0.62093025, 0.8006993, 0.62093025, 0.8006993, 0.18372093">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Sainte Agnès de Rome&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Sainte Agnès est une vierge et martyre dont les attributs sont l’agneau blanc et la palme du martyr ici tenue par un ange. Elle est couronnée, nimbée, agenouillée, lisant un livre et a les mains levées vers le ciel en signe de prière. Elle se trouve dans un jardin, au pied d’un arbre d'olivier.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image18.JPG">
+		<RegionOfInterest region="0.3689236, 0.17464954, 0.3689236, 0.6483645, 0.7821181, 0.6483645, 0.7821181, 0.17464954">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Saint Jérôme de Stridon&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Saint Jérôme de Stridon faisant pénitence au désert, accompagné du lion qu’il a soigné et qui est le symbole du désert.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image19.JPG">
+		<RegionOfInterest region="0.3949653, 0.19100468, 0.3949653, 0.64778036, 0.7829861, 0.64778036, 0.7829861, 0.19100468">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Sainte Catherine d'Alexandrie&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Sainte Catherine est une vierge et martyre,couronnée et nimbée, foulant à ses pieds l’empereur qui l'a emprisonné et tué. À ses côtés se trouve l'épée par laquelle est a été décapitée et la roue brisée de son supplice.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image20.JPG">
+		<RegionOfInterest region="0.37674826, 0.17464954, 0.37674826, 0.6501168, 0.8041958, 0.6501168, 0.8041958, 0.17464954">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Sainte Marguerite d'Antioche&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Sainte Marguerite d’Antioche, vierge et martyre, couronnée et nimbée, foulant à ses pieds un dragon, symbole du diable et du paganisme qu’elle a combattus et vaincus. Elle regarde une croix, symbole de la foi qu’elle refuse de nier. Selon la légende, le dragon l’aurait avalée, et ce serait à l’aide de cette croix qu’elle aurait transpercé son ventre afin de s’échapper. Elle l’aurait ensuite piétiné et tué.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image21.JPG">
+		<RegionOfInterest region="0.38374126, 0.22021028, 0.38374126, 0.37733644, 0.7972028, 0.37733644, 0.7972028, 0.22021028">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le Christ cruxifié, accompagné du bon larron (à gauche) et du mauvais larron (à droite).&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.4527972, 0.47313085, 0.39248252, 0.6396028, 0.6625874, 0.63609815, 0.48863637, 0.46728972, 0.4597902, 0.47021028">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Sainte Madeleine et le crane d’Adam qui renvoie au nom du lieu où Jésus est crucifié : le Golgotha, qui signifie lieu du crâne.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage7.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Georges de La Tour, "La Madeleine à la veilleuse", 1642-1644, Musée du Louvre, Paris&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.7019231, 0.3849299, 0.6075175, 0.4561916, 0.6311189, 0.6150701, 0.7491259, 0.4223131, 0.70804197, 0.38376167">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Caïphe, grand prêtre du Temple de Jérusalem, celui qui à condamné Jésus à la mort.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage8.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Matthias Stom, "Christ devant Caïph",Milwaukee Art Museum, Wisconsin&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.39248252, 0.43983644, 0.39248252, 0.4760514, 0.53583914, 0.4760514, 0.53583914, 0.43983644">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Saint Jean (à gauche) et Sainte Marie (à droite)&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image22.JPG">
+		<RegionOfInterest region="0.5095486, 0.26985982, 0.5043403, 0.45385513, 0.6892361, 0.45035046, 0.6918403, 0.2646028">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Sainte Face, entourée des noms des quatre Évangélistes et de leurs représentations symboliques.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.39322916, 0.5630841, 0.3984375, 0.62616825, 0.8029514, 0.62616825, 0.8003472, 0.56133175">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">En dessous, on retrouve le jardin que l’on déjà vu dans quelques enluminures précédentes.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.49739584, 0.17172897, 0.4184028, 0.19626169, 0.38020834, 0.22721963, 0.38802084, 0.33294392, 0.5876736, 0.17114486">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>L'ange de Saint Matthieu&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage9.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Rembrandt, "Saint Mathieu et l'Ange", 1661, musée du Louvre, Paris&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.5954861, 0.17873831, 0.7109375, 0.17406543, 0.7951389, 0.22429906, 0.7942708, 0.3224299">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>L'aigle de Saint Jean&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage10.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Le Dominiquin, "Jean l'Évangéliste II", 1622, BJU Museum and Gallery,Greenville, Ecosse&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.38802084, 0.3977804, 0.39756945, 0.47955608, 0.4652778, 0.52219623, 0.5772569, 0.5426402, 0.5442708, 0.50408876">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Le lion de Saint Marc&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage11.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Le Pordenone, "Marc l'Évangéliste", Budapest&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.6388889, 0.52453274, 0.796875, 0.38901868, 0.8020833, 0.46670562, 0.7291667, 0.52628505">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Le taureau de Saint Luc&lt;/b>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage12.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>"Saint Luc et le taureau" ,Église Saint-André,  Antrain, France&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image23.JPG">
+		<RegionOfInterest region="0.38908452, 0.17231308, 0.38908452, 0.64252335, 0.7799296, 0.64252335, 0.7799296, 0.17231308">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Trinité : Dieu le Père tient dans ses mains la Croix du Christ sur laquelle se trouve une colombe symbolisant le Saint-Esprit.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+	<Page src="image24.JPG">
+		<RegionOfInterest region="0.3767361, 0.16705607, 0.3810764, 0.24766356, 0.7690972, 0.24591121, 0.7682292, 0.17289719">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Pentecôte, avec au centre deux personnages principaux : la Vierge Marie et saint Pierre, au-dessus des apôtres se trouve la colombe, symbole de l’Esprit-Saint.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.4609375, 0.3352804, 0.4609375, 0.40537384, 0.5477431, 0.40537384, 0.5477431, 0.3352804">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Saint Pierre (reconnaissable à son crâne chauve)&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage13.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Rubens, " Saint Pierre, 1er Pape"&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+	</Page>
+</Book>
