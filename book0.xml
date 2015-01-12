@@ -9,6 +9,11 @@
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Jean Poyer "Vierge à l'Enfant " Musée du Louvre Paris &lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
+		<RegionOfInterest region="0.8267544, 0.35075432, 0.8267544, 0.6147629, 0.999269, 0.6147629, 0.999269, 0.35075432">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Fermoir en argent&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
 	</Page>
 	<Page src="image1.JPG">
 		<RegionOfInterest region="0.069785275, 0.03195067, 0.069785275, 0.9529148, 0.9363497, 0.9529148, 0.9363497, 0.03195067">
@@ -38,42 +43,79 @@
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Vierge à l’Enfant (Vierge de l’humilité), couronnée et nimbée, assise sur des coussins, dans un jardin. &lt;/div>&lt;/html>
 			</Info>
-		</RegionOfInterest>
-		<RegionOfInterest region="0.4375, 0.3487443, 0.48641303, 0.24714611, 0.32789856, 0.20490867, 0.08786232, 0.27568492, 0.057971016, 0.3584475, 0.09692029, 0.5730594, 0.10326087, 0.72203195, 0.3432971, 0.72602737, 0.34692028, 0.63812786, 0.34057972, 0.37157536">
-			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">À droite, Saint Georges au dessus du dragon et à gauche, un ange tenant un casque portant ses armes (d’argent à la croix de gueules).&lt;/div>&lt;/html>
-			</Info>
 			<Info type="image" src="roiImage1.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Giovanni di Paolo, Vierge de l’Humilité, 1435, Pinacothèque nationale de Sienne&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage2.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Zanobi Strozzi, Vierge de l’Humilité avec deux musiciens, Vers 1448-1450, tempera sur panneau de bois, 83,5 x 56,8 cm © Milano, Museo Poldi Pezzoli&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.4375, 0.3487443, 0.48641303, 0.24714611, 0.27355072, 0.18949772, 0.24365942, 0.2836758, 0.0634058, 0.38527396, 0.08514493, 0.58618724, 0.13043478, 0.6894977, 0.3432971, 0.6917808, 0.34692028, 0.63812786, 0.34057972, 0.37157536">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Saint Georges, appelé également Georges de Lydda, est vêtu de bleu et porte une armure. Il est le saint patron de la chevalerie de toute la chrétienté. Il est représenté en chevalier en armure, avec une lance et le dragon qui represente le démon à ses pieds. Il s’agit en fait de l’allégorie de la victoire de la foi chrétienne sur le démon, du bien sur le mal. Il est fêté le 23 avril. &lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’ange accompagnant saint Georges tient son casque. Ce dernier est orné des armes de saint Georges : d’argent à une croix de gueules, c’est-à-dire une croix rouge sur fonds blanc. Ces armes sont également celles de la famille de saint Georges.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage3.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Paolo Uccello, "Saint Georges terrassant le dragon", 1439-1440, Musée Jacquemart-André, Paris&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
+			<Info type="image" src="roiImage4.JPG" />
 		</RegionOfInterest>
 		<RegionOfInterest region="0.4347826, 0.36586758, 0.58061594, 0.3584475, 0.66847825, 0.39440638, 0.51992756, 0.4634703, 0.54438406, 0.6267123, 0.36775362, 0.67636985, 0.36141303, 0.4063927">
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le destinataire du livre d’Heures, agenouillé, relié à Marie par un phylactère sur lequel est inscrit :
-« O mater dei memento mei » 
-( Ô mère de Dieu, souviens-toi de moi.)&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Ce personnage vêtu de rouge qui est agenouillé devant la Vierge à l’Enfant est le destinataire du livre d’Heures, c’est-à-dire celui qui a passé la commande. Il est accompagné de son saint patron, saint Georges. On peut donc supposer qu’il s’appelle Georges, ou bien que qu’il appartient à la famille noble française de Saint-Georges.&lt;/div>&lt;/html>
 			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Phylactère reliant le destinataire à la Vierge à l’Enfant sur lequel il est inscrit « O mater dei memento mei », qui signifie « O mère de Dieu, souviens-toi de moi ».&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.73550725, 0.17636986, 0.73550725, 0.29680365, 0.8242754, 0.29680365, 0.8242754, 0.17636986">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La couleur du fonds de l’enluminure est le cinabre, c’est-à-dire rouge vermillon. Il est couvert de réseaux d’or. Au-dessus est utilisée la couleur bleu outremer.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Nous tenons le mot « cinabre » des Grecs (kinnabari) et des Latins (cinnabaris), qui le tiennent eux-mêmes des Perses (zanjifrah). Son étymologie n’est pourtant pas éclaircie parfaitement. Le cinabre a probablement été utilisé, comme vermillon, très tôt en Grèce, en Egypte (Fayoum), en Inde et en Chine (vermillon de Chine), puis à l’époque romaine, comme en attestent les fresques de Pompéi. Il était fort coûteux, donc objet de trafics de la part de certains peintres. Il s’agit d’une espèce minérale composée de sulfure de mercure. Il a été décrit pour la première fois par Théophraste en 315 avant J.-C.
+&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage5.JPG" />
 		</RegionOfInterest>
 	</Page>
 	<Page src="image3.JPG">
-		<RegionOfInterest region="0.20862676, 0.1875, 0.3503521, 0.18176605, 0.3943662, 0.22018349, 0.44982395, 0.26605505, 0.45334506, 0.29529816, 0.44982395, 0.3543578, 0.4559859, 0.4082569, 0.38820422, 0.4271789, 0.3089789, 0.4787844, 0.15580986, 0.49426606, 0.17605634, 0.43119267, 0.20862676, 0.3641055, 0.24735916, 0.34116971, 0.21742958, 0.33142203, 0.16725352, 0.37958714, 0.14700705, 0.3446101, 0.1971831, 0.30676606, 0.25264084, 0.27408257, 0.16725352, 0.26433486, 0.14964789, 0.23738532">
+		<RegionOfInterest region="0.20862676, 0.1875, 0.3503521, 0.18176605, 0.43838027, 0.21215597, 0.4753521, 0.24311927, 0.4903169, 0.3113532, 0.44982395, 0.34747708, 0.4559859, 0.4082569, 0.38820422, 0.4271789, 0.3089789, 0.4787844, 0.15580986, 0.49426606, 0.17605634, 0.43119267, 0.20862676, 0.3641055, 0.24735916, 0.34116971, 0.21742958, 0.33142203, 0.16725352, 0.37958714, 0.14700705, 0.3446101, 0.1971831, 0.30676606, 0.25264084, 0.27408257, 0.16725352, 0.26433486, 0.14964789, 0.23738532">
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Gabriel annonce à la Vierge Marie sa maternité divine. L'ange dit: 
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Gabriel, tout comme Michel et Raphaël, est un archange, c’est-à-dire un envoyé céleste ayant pour mission de délivrer un message de Dieu. Son nom signifie « Dieu s’est montré fort », « -el » voulant dire Dieu. C’est lui qui annonce à Marie sa maternité divine, et par là même la venue du Messie sur terre et le salut des hommes. Outre à la Vierge, il apparaît également à Daniel (Dn, 8, 16) et à Zacharie, l’époux d’Élisabeth, la cousine de Marie).&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Gabriel annonce à la Vierge Marie sa maternité divine avec le lys et la Colombe, L'ange dit: 
 « Ave Maria gracia plena, Dominus tecum » 
 (Je vous salue Marie, pleine de grâce, le Seigneur est avec vous)&lt;/div>&lt;/html>
 			</Info>
-		</RegionOfInterest>
-		<RegionOfInterest region="0.38556337, 0.17431192, 0.54665494, 0.18405963, 0.62676054, 0.2184633, 0.5880282, 0.27752292, 0.62676054, 0.32167432, 0.67077464, 0.35607797, 0.62323946, 0.40022936, 0.5765845, 0.36983946, 0.57042253, 0.41571102, 0.49735916, 0.49426606, 0.32042253, 0.48279816, 0.46742958, 0.29873854, 0.42077464, 0.22821102">
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Vierge Marie répond Gabriel: 
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le lys est l’un des attributs présents dans la scène de l’Annonciation. Il est tenu par l’archange Gabriel. Il apparaît vers la fin du Moyen-Âge en remplacement du bâton de messager puis du sceptre fleurdelisé.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La colombe est souvent présente dans l’iconographie de l’Annonciation. Elle est le symbole du Saint-Esprit.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.38556337, 0.17431192, 0.54665494, 0.18405963, 0.62676054, 0.2184633, 0.5880282, 0.27752292, 0.62676054, 0.32167432, 0.67077464, 0.35607797, 0.62323946, 0.40022936, 0.5765845, 0.36983946, 0.57042253, 0.41571102, 0.49735916, 0.49426606, 0.32042253, 0.48279816, 0.4850352, 0.30848625, 0.42077464, 0.22821102">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Vierge Marie est représentée agenouillée, lisant un livre auprès d’un autel. Son geste de la main droite montre qu’elle est surprise par l’apparition de l’archange Gabriel. &lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Elle répond Gabriel: 
 « Ecce ancilla Domini; fiat mihi secundum verbum tuum » 
-(Voici la servante du Seigneur, qu’il me soit fait selon votre parole)
-Sur le livre que lit la Vierge, il est écrit les paroles du Magnificat : 
+(Voici la servante du Seigneur, qu’il me soit fait selon votre parole)&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Sur le livre, comme souvent dans la représentation iconographique de l’Annonciation, l’archange Gabriel la surprend en pleine lecture des Saintes Ecritures. Ici, le texte est anachronique puisqu’il est issu d’une scène qui se déroulera après, à savoir lors de la scène de la Visitation . Il s’agit en effet du texte du Magnificat :  
 « Magnificat anima mea dominus ». 
 (Mon âme exalte le Seigneur)&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage2.JPG" />
+			<Info type="image" src="roiImage6.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Fra Angelico, "L'Annonciation", 1430, musée du Prado, Madrid&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
@@ -107,8 +149,22 @@ annuntiabit lau-
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Cette page représentant l’Annonciation qui illustre l’Office des Matines, c’est-à-dire le premier office du cursus de l’office divin dans la liturgie des Heures qui est destiné à sanctifier le temps de la nuit. On peut y voir :&lt;/div>&lt;/html>
 			</Info>
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’archange Gabriel annoncant à la Vierge Marie sa maternité divine. 
-Les paroles échangées entre l'ange et Marie sont issues de l’Evangile selon saint Luc (1, 26-38). &lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’archange Gabriel annoncant à la Vierge Marie sa maternité divine. Les paroles échangées entre l'ange et Marie sont issues de l’Evangile selon saint Luc (1, 26-38)：&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’ange Gabriel fut envoyé par Dieu dans une ville de Galilée, appelée Nazareth,à une jeune fille, une vierge, accordée en mariage à un homme de la maison de David, appelé Joseph ; et le nom de la jeune fille était Marie. A cette parole, elle fut toute bouleversée, et elle se demandait ce que pouvait signifier cette salutation.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’ange lui dit alors : « Sois sans crainte, Marie, car tu as trouvé grâce auprès de Dieu.Voici que tu vas concevoir et enfanter un fils ; tu lui donneras le nom de Jésus.Il sera grand, il sera appelé Fils du Très-Haut ; le Seigneur Dieu lui donnera le trône de David son père ;il régnera pour toujours sur la maison de Jacob, et son règne n’aura pas de fin. »&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Marie dit à l’ange : « Comment cela va-t-il se faire, puisque je suis vierge ? »&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’ange lui répondit : « L’Esprit Saint viendra sur toi, et la puissance du Très-Haut te prendra sous son ombre ; c’est pourquoi celui qui va naître sera saint, et il sera appelé Fils de Dieu.Et voici qu’Élisabeth, ta cousine, a conçu, elle aussi, un fils dans sa vieillesse et elle en est à son sixième mois, alors qu’on l’appelait : ‘la femme stérile’.Car rien n’est impossible à Dieu. »&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Marie dit alors : « Voici la servante du Seigneur ; que tout se passe pour moi selon ta parole. » Alors l’ange la quitta.&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
 	</Page>
@@ -120,19 +176,34 @@ Les paroles échangées entre l'ange et Marie sont issues de l’Evangile selon 
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’Annonce aux bergers qui correspond à l’office de Prime, c’est-à-dire la première heure du jour après le levant soit environ 6h du matin, il fait partie des « petites heures ». &lt;/div>&lt;/html>
 			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Voici le texte de l’Évangile selon saint Luc (Luc 2, 8-14) où est racontée cette scène :&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">8. Il y avait dans le même pays des bergers qui vivaient aux champs et montaient la garde pendant la nuit auprès de leur troupeau. 
+9. Un ange du Seigneur se présenta devant eux, la gloire du Seigneur les enveloppa de lumière et ils furent saisis d'une grande crainte. 
+10. L'ange leur dit : « Soyez sans crainte, car voici, je viens vous annoncer une bonne nouvelle, qui sera une grande joie pour tout le peuple : 
+11. Il vous est né aujourd'hui, dans la ville de David, un Sauveur qui est le Christ Seigneur ; 
+12. et voici le signe qui vous est donné : vous trouverez un nouveau-né emmailloté et couché dans une mangeoire. » 
+13. Tout à coup il y eut avec l'ange l'armée céleste en masse qui chantait les louanges de Dieu et disait :
+14. « Gloire à Dieu au plus haut des cieux et sur la terre paix pour ses bien-aimés. »&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">(d'après la TOB Traduction Œcuménique de la Bible)&lt;/div>&lt;/html>
+			</Info>
 		</RegionOfInterest>
 		<RegionOfInterest region="0.48069853, 0.22395833, 0.63327205, 0.19907407, 0.8272059, 0.22222222, 0.7637868, 0.2355324, 0.7545956, 0.3258102, 0.6691176, 0.3258102, 0.6599265, 0.27604166, 0.55330884, 0.2679398, 0.4898897, 0.25868055">
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Inscription sur le phylactère :
- 
-&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Inscription sur le phylactère :&lt;/div>&lt;/html>
 			</Info>
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">« Gloria in excelsis Deo et in terra pax hominibus bonae voluntatis » &lt;/div>&lt;/html>
 			</Info>
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Gloire à Dieu au plus haut des cieux et paix sur la Terre aux hommes de bonne volonté/aux hommes qu’il aime.
-C’est un chant d’allégresse, un hymne à la Trinité.&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Gloire à Dieu au plus haut des cieux et paix sur la Terre aux hommes de bonne volonté/aux hommes qu’il aime.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">C’est un chant d’allégresse, un hymne à la Trinité.&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
 		<RegionOfInterest region="0.7775735, 0.23726852, 0.7775735, 0.3755787, 0.8566176, 0.3755787, 0.85202205, 0.23206018">
@@ -147,40 +218,77 @@ C’est un chant d’allégresse, un hymne à la Trinité.&lt;/div>&lt;/html>
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation générale de cette scène&lt;/b>&lt;/div>&lt;/html>
 			</Info>
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Nativité (avec l'absence de Joseph) qui correspond à l’Office de Tierce, c'est-à-dire, la troisième heure du jour, vers 9h du matin qui commémore le moment où l’Esprit-Saint est descendu sur les Apôtres.&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Cette enluminure représente la scène de la Nativité, c’est-à-dire de la naissance du Christ dans une crèche à Bethléem. Elle illustre l’office de Tierce (troisième heure du jour, vers 9h du matin, qui commémore le moment où l’Esprit-Saint est descendu sur les Apôtres).&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
 		<RegionOfInterest region="0.65, 0.20679724, 0.65, 0.34907833, 0.82857144, 0.34907833, 0.82857144, 0.20679724">
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le berceau de l'enfant Jésus, entourés d'animaux de la ferme (le bœuf et l'âne)&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le berceau de l'enfant Jésus, entouré d'animaux du bœuf et de l'âne&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">L’accent est mis sur la relation entre Jésus et sa mère. Jésus est emmailloté et tend un bras vers sa mère. La mangeoire est représentée sous forme d’autel.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Bien qu’ils ne soient pas mentionnés dans les Évangiles, l’âne et le bœuf sont indissociables de la scène de la Nativité. Ils sont une invention tardive du pseudo-évangile de Mathieu datant du VIIe siècle. Dans cette scène, ils sont le seul élément qui rappelle que la Nativité a eu lieu dans une crèche.&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
-		<RegionOfInterest region="0.43392858, 0.22983871, 0.43660715, 0.39458525, 0.6026786, 0.39458525, 0.6, 0.22983871">
+		<RegionOfInterest region="0.43392858, 0.22983871, 0.43660715, 0.39458525, 0.6767857, 0.39458525, 0.6, 0.22983871">
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Marie accompagne des anges&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Vierge est représentée alitée, un coussin sous la tête tenu par deux anges bleus, dans un intérieur au décor correspondant aux goûts de l’époque à laquelle l’enluminure a été réalisée (comme par exemple le « berceau » dans lequel est couché Jésus). On retrouve à nouveau le même dallage. Les tissus et leur décor sont fréquents dans les enluminures flamandes. Il faut noter l’absence de Joseph aux côtés de Marie, que l’on retrouve pourtant très souvent dans la représentation de cette scène.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage7.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Nativité du musée Mayer van den Bergh, à Anvers, d'un maître anonyme flamand (le maître de la Gueldre, pour Panofsky) avec son Saint Joseph occupé avec sa chausse.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.425, 0.46025345, 0.43035713, 0.6376728, 0.68035716, 0.6376728, 0.63214284, 0.4642857">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Un serviteur assiste la Vierge. Il est peu probable que ce personnage soit Joseph.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.73303574, 0.52131337, 0.77767855, 0.55241936, 0.82857144, 0.61290324, 0.81964284, 0.48847926">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le dallage est un motif que l’on retrouve dans plusieurs enluminures de ce livre d’Heures. Il est caractéristique des enluminures flamandes. On en retrouve par exemple dans le livre d’Heures à l’usage de Rome réalisé entre 1409 et 1419 par les maîtres de Guillebert de Mets originaires des Pays-Bas méridionaux, pour Jean Sans Peur, duc de Bourgogne (1404-1419) (Bibliothèque nationale de France, Mss, NAL 3055, f. 89v).&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage8.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Les maîtres de Guillebert de Mets, "La Vierge alitée, les sages-femmes lavant l'enfant Jésus et arrivée des bergers dans la chambre de naissance", entre 1409 et 1419, BNF, Paris&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
 	</Page>
 	<Page src="image6.JPG">
-		<RegionOfInterest region="0.33667883, 0.118663594, 0.33667883, 0.2108295, 0.9041971, 0.2108295, 0.9041971, 0.118663594">
+		<RegionOfInterest region="0.33667883, 0.118663594, 0.34854016, 0.1952765, 0.9014599, 0.19758065, 0.9041971, 0.118663594">
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation générale de cette scène&lt;/b>&lt;/div>&lt;/html>
 			</Info>
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Enluminure de l’Adoration des Mages (avec absence de Joseph) qui correspond à l’office de Sexte, autrement dit, la sixième heure du jour soit environ midi. C'est l'office du milieu du jour commémorant le moment où le Christ est cloué sur la Croix.
-&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Cette enluminure représente l’Adoration des Mages. Elle illustre l’office de Sexte (sixième heure du jour soit environ midi, office du milieu du jour commémorant le moment où le Christ est cloué sur la Croix).&lt;/div>&lt;/html>
 			</Info>
+			<Info type="image" src="roiImage9.JPG" />
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">On note la présence des membres de la sainte Famille : Jésus, la Vierge Marie avec celle des trois rois mages, de leur symbolique propre et de leur présents: myrrhe, or et encens.&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Les Très Riches Heures du duc de Berry, ms.65, folio 52r, vers 1411-1416, musée Condé, Chantilly&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
 		<RegionOfInterest region="0.5428832, 0.52707374, 0.5428832, 0.6186636, 0.6770073, 0.6186636, 0.6770073, 0.52707374">
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Décoration de miniatures flamandes&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">On retrouve encore les mêmes dallages typiques des enluminures flamandes.&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage3.JPG" />
+		</RegionOfInterest>
+		<RegionOfInterest region="0.45255473, 0.2857143, 0.45255473, 0.48271888, 0.6131387, 0.48271888, 0.6131387, 0.2857143">
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Les maîtres de Guillebert de Mets, "La Vierge alitée, les sages-femmes lavant l'enfant Jésus et arrivée des bergers dans la chambre de naissance", entre 1409 et 1419, BNF, Paris&lt;/u>&lt;/i>&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La Vierge est représentée tenant l’enfant Jésus sur ses genoux. Elle le présente aux Rois mages. Le Christ fait un geste en leur direction. La Vierge est assise sur le même tissu vert et doré qu’à la scène précédente. A noter, tout comme dans l’enluminure précédente, l’absence de Joseph, qui n’apparaît que tardivement dans cette scène.&lt;/div>&lt;/html>
+			</Info>
+		</RegionOfInterest>
+		<RegionOfInterest region="0.46441606, 0.20852534, 0.66149634, 0.19758065, 0.8220803, 0.2108295, 0.834854, 0.6152074, 0.69525546, 0.5841014, 0.6979927, 0.4925115, 0.6277372, 0.46947005, 0.600365, 0.37154377, 0.6040146, 0.30817974">
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Les Rois mages figurent dans l’Évangile selon Matthieu (Mt 2, 1-12), qui ne mentionne ni leur nombre, ni leur nom, ni leur statut de roi, même s’il est établi depuis longtemps qu’ils sont trois et qu’ils s’appellent Balthazar, Melchior et Gaspard. D’abord considérés comme sages, ils sont désignés comme étant rois par Tertullien à partir du IIIe siècle. L’Évangile précise qu’ils viennent d’Orient, et que c’est une étoile qui les a guidés vers la crèche où se trouve le futur « roi des Juifs ». Arrivés devant Jésus, les rois mages lui offrent des présents d’une grande richesse symbolique : de l’or, symbole du pouvoir royal, de la myrrhe, symbole du pouvoir spirituel et de l’encens, symbole du pouvoir sacerdotal.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Avant de se rendre auprès de Jésus, ils rendent visite au roi Hérode qui leur demande de lui dire où se trouve Jésus s’ils le trouvent. Cependant, après avoir été avertis en songe des mauvaises intentions du Rois, les mages repartent dans une autre direction.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage10.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Vers 1220, Codex Bruchsal 1, Bl. 11r, Karlsruhe&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
 	</Page>
@@ -377,15 +485,17 @@ Deo gracias.&lt;/div>&lt;/html>
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Présentation générale de cette scène&lt;/b>&lt;/div>&lt;/html>
 			</Info>
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Enluminure du Massacre des Saints Innocents (correspond à l’office None, c’est-à-dire la neuvième heure du jour, dit vers 15h, il commémore l’instant où le Christ est mort sur la Croix).
-Le massacre des Innocents est le nom donné à un épisode relaté dans l'Évangile selon Matthieu: le meurtre de tous les enfants de moins de deux ans ordonné par le roi Hérode peu après la naissance de Jésus.&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Enluminure du Massacre des Saints Innocents (correspond à l’office None, c’est-à-dire la neuvième heure du jour, dit vers 15h, il commémore l’instant où le Christ est mort sur la Croix).&lt;/div>&lt;/html>
+			</Info>
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le massacre des Innocents est le nom donné à un épisode relaté dans l'Évangile selon Matthieu: le meurtre de tous les enfants de moins de deux ans ordonné par le roi Hérode peu après la naissance de Jésus.&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
 		<RegionOfInterest region="0.5697464, 0.20891203, 0.5697464, 0.3159722, 0.7164855, 0.3159722, 0.7164855, 0.20891203">
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le roi Hérode-Hérode Ier le Grand&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage4.JPG" />
+			<Info type="image" src="roiImage11.JPG" />
 		</RegionOfInterest>
 		<RegionOfInterest region="0.48007247, 0.5729167, 0.48007247, 0.6302083, 0.85144925, 0.6302083, 0.85144925, 0.5729167">
 			<Info type="text">
@@ -418,7 +528,7 @@ Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Siméon le Sage&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage5.JPG" />
+			<Info type="image" src="roiImage12.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Alexey Yegorov, "Siméon", 1830-1840, Bibliotekar, Russie&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
@@ -434,7 +544,7 @@ Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">La résurrection des morts&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage6.JPG" />
+			<Info type="image" src="roiImage13.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Tympan du Jugement dernier sur le portail des Libraires de la cathédrale de Rouen&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
@@ -491,11 +601,14 @@ Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le Christ cruxifié, accompagné du bon larron (à gauche) et du mauvais larron (à droite).&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
-		<RegionOfInterest region="0.4527972, 0.47313085, 0.39248252, 0.6396028, 0.6625874, 0.63609815, 0.48863637, 0.46728972, 0.4597902, 0.47021028">
+		<RegionOfInterest region="0.38986015, 0.43691587, 0.39248252, 0.6396028, 0.6625874, 0.63609815, 0.53409094, 0.44450936, 0.4729021, 0.44217288">
 			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Sainte Madeleine et le crane d’Adam qui renvoie au nom du lieu où Jésus est crucifié : le Golgotha, qui signifie lieu du crâne.&lt;/div>&lt;/html>
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Saint Jean (en rouge), Marie (en bleu), Marie Madeleine (en rose) et le crane d'Adam (en bas à gauche)&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage7.JPG" />
+			<Info type="text">
+				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Le crane d’Adam renvoie au nom du lieu où Jésus est crucifié : le Golgotha, qui signifie lieu du crâne.&lt;/div>&lt;/html>
+			</Info>
+			<Info type="image" src="roiImage14.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Georges de La Tour, "La Madeleine à la veilleuse", 1642-1644, Musée du Louvre, Paris&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
@@ -504,14 +617,9 @@ Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Caïphe, grand prêtre du Temple de Jérusalem, celui qui à condamné Jésus à la mort.&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage8.JPG" />
+			<Info type="image" src="roiImage15.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Matthias Stom, "Christ devant Caïph",Milwaukee Art Museum, Wisconsin&lt;/u>&lt;/i>&lt;/div>&lt;/html>
-			</Info>
-		</RegionOfInterest>
-		<RegionOfInterest region="0.39248252, 0.43983644, 0.39248252, 0.4760514, 0.53583914, 0.4760514, 0.53583914, 0.43983644">
-			<Info type="text">
-				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Saint Jean (à gauche) et Sainte Marie (à droite)&lt;/div>&lt;/html>
 			</Info>
 		</RegionOfInterest>
 	</Page>
@@ -530,7 +638,7 @@ Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>L'ange de Saint Matthieu&lt;/b>&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage9.JPG" />
+			<Info type="image" src="roiImage16.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Rembrandt, "Saint Mathieu et l'Ange", 1661, musée du Louvre, Paris&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
@@ -539,7 +647,7 @@ Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>L'aigle de Saint Jean&lt;/b>&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage10.JPG" />
+			<Info type="image" src="roiImage17.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Le Dominiquin, "Jean l'Évangéliste II", 1622, BJU Museum and Gallery,Greenville, Ecosse&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
@@ -548,7 +656,7 @@ Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Le lion de Saint Marc&lt;/b>&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage11.JPG" />
+			<Info type="image" src="roiImage18.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Le Pordenone, "Marc l'Évangéliste", Budapest&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
@@ -557,7 +665,7 @@ Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Arial; ">&lt;b>Le taureau de Saint Luc&lt;/b>&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage12.JPG" />
+			<Info type="image" src="roiImage19.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>"Saint Luc et le taureau" ,Église Saint-André,  Antrain, France&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
@@ -580,7 +688,7 @@ Les Églises les honorent comme martyrs.&lt;/div>&lt;/html>
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:2px; margin-right:4px; font-size:20px; color:#ffffff; font-family:Times New Roman; ">Saint Pierre (reconnaissable à son crâne chauve)&lt;/div>&lt;/html>
 			</Info>
-			<Info type="image" src="roiImage13.JPG" />
+			<Info type="image" src="roiImage20.JPG" />
 			<Info type="text">
 				&lt;html>&lt;div style="margin-left:3px; margin-right:6px; font-size:24px; color:#ffffff; font-family:Times New Roman; ">&lt;i>&lt;u>Rubens, " Saint Pierre, 1er Pape"&lt;/u>&lt;/i>&lt;/div>&lt;/html>
 			</Info>
